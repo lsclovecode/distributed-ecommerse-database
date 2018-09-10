@@ -1,3 +1,4 @@
+
 # elasticDB node setup
 1. set master and slaves in set_env.sh
 2. make sure you have installed mysql on all the nodes in the queues. 
